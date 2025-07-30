@@ -6,6 +6,6 @@
     "jquery": "^3.3.1",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.0.1",
-    "popper.js": "^1.14.7"
+    "popper.js": "^1.16.1"
   }
 }
